@@ -16,6 +16,7 @@ In-order to execute the program run "main.java"
 ## Highlights 
 * Works well and returns the correct output.
 * Better code efficiency
+* Good use of stringbuilder
 
 ## Imrovements 
 * The number of tests done is limited and it can be improved.
