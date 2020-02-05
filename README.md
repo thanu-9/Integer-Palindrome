@@ -15,7 +15,7 @@ In-order to execute the program run "main.java"
 
 ## Highlights 
 * Works well and returns the correct output.
-* Godd use of stringbulider function 
+* Good use of stringbulider function 
 * Better code efficiency
 
 ## Imrovements 
